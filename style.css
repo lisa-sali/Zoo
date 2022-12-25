@@ -45,6 +45,7 @@ img{
     background-color:#24A7BF;
     padding:   1.5vw 2.2vw;
     font-size:1vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     text-decoration: none;
     color:#fff;
     margin-right: 2vw;
@@ -151,6 +152,7 @@ img{
 .nav-list-item a{
     text-decoration: none;
     font-size:1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color: #fff;
 }
 @media screen and (max-width:428px) {
@@ -213,6 +215,7 @@ img{
 
 .zoo-name{
     font-size:1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .zoo-name{
@@ -299,6 +302,7 @@ img{
     height:5.6vw;
     top:35.5vw;
     left: 2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:1600px) {
     .mv-text1{
@@ -326,6 +330,7 @@ img{
     height:5.6vw;
     top:44vw;
     left: 2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:1600px) {
     .mv-text2{
@@ -374,6 +379,7 @@ img{
 
 .news-event-h2{
     font-size: 2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px){
     .news-event-h2{
@@ -425,6 +431,7 @@ img{
 
 .news-event-main-p{
     font-size: 1vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px){
     .news-event-main-p{
@@ -436,6 +443,7 @@ img{
 .news-event-main-pp{
     font-size: 1.3vw;
     width: 30vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width: 428px){
     .news-event-main-pp{
@@ -457,6 +465,7 @@ img{
     text-decoration: none;
     color:#FFF;
     margin-top:2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width: 428px){
     .news-event-main-button{
@@ -531,6 +540,7 @@ img{
 
 .card-title-text{
     font-size: 2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px){
     .card-title-text{
@@ -551,6 +561,7 @@ img{
     border-radius:1.5vw;
     background-color:#DB7272;
     font-size:1.3vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
 }
 @media screen and (max-width:428px) {
@@ -639,6 +650,7 @@ img{
     border-radius: 3.3vw;
     box-shadow: 0 0 1.4vw rgba(8,56,4,0.53);
     font-size: 1.2vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     text-align: center;
     padding: 10.92vw 0 0 0;
     box-sizing: border-box;
@@ -676,6 +688,7 @@ img{
 .card-main-text span{
     font-size: 1.8vw;
     color: #023402;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px){
     .card-main-text span{
@@ -687,6 +700,7 @@ img{
 .card-main-text .span-10{
     font-size: 3.1vw;
     color: #81C942;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .card-main-text .span-10{
@@ -705,6 +719,7 @@ img{
     height: 3vw;
     border-radius:1.5vw;
     font-size:1vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     text-decoration:none;
     color:#fff;;
     margin: 1vw auto 0;
@@ -805,6 +820,7 @@ img{
 
 .touch-list-item-title{
     font-size:2.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     margin-top: 1vw;
     margin-bottom: 1vw;
 }
@@ -818,6 +834,7 @@ img{
     width: 30vw;
     height: 5.6vw;
     font-size:1vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     line-height:2.5;
     margin: 1vw 0 3vw 1vw ;
 }
@@ -844,6 +861,7 @@ img{
     color:#fff;
     text-decoration:none;
     font-size:1vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .touch-list-item-buttom{
@@ -960,6 +978,7 @@ img{
 
 .study-list-item-title{
     font-size:2.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     width: 25vw;
 }
 @media screen and (max-width:428px) {
@@ -972,6 +991,7 @@ img{
 .study-list-item-p{
     width: 25vw;
     font-size:0.9vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     line-height:2.5vw;
     margin: 0 2vw 0 1vw;
 }
@@ -995,6 +1015,7 @@ img{
     background-color:#E39064;
     margin: 3vw auto;
     font-size:1vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
     text-decoration:none;
 }
@@ -1050,6 +1071,7 @@ img{
 
 .animal-introduction-title-text{
     font-size:2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px){
     .animal-introduction-title-text{
@@ -1122,6 +1144,7 @@ img{
     display: flex;
     justify-content: center;
     font-size:2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
     z-index: 60;
 }
@@ -1129,6 +1152,7 @@ img{
 .animal-introduction-name-honyurui{
     position: absolute;
     margin: -27vw 0 0 0;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .animal-introduction-name-honyurui{
@@ -1142,6 +1166,7 @@ img{
     position: absolute;
     top: 35vw;
     left: 13vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .animal-introduction-name-hatyuurui{
@@ -1156,6 +1181,7 @@ img{
     position: absolute;
     top: 35vw;
     left: 42vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .animal-introduction-name-tyourui{
@@ -1224,6 +1250,7 @@ img{
 
 .picture-title-text{
     font-size: 2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color: #000;
     margin: 0;
 }
@@ -1295,6 +1322,7 @@ img{
 
 .everyone-photostudio-h2{
     font-size: 2.2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color: #386E0B;
     margin-top: 5vw;
 }
@@ -1353,6 +1381,7 @@ img{
 .everyone-photostudio-list-item-name{
     margin: 1.5vw 0 0 0;
     font-size:1vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 @media screen and (max-width:428px) {
     .everyone-photostudio-list-item-name{
@@ -1375,6 +1404,7 @@ img{
     justify-content: center;
     align-items: center;
     font-size: 1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     background-color:#5B9BDB;
     width: 15vw;
     height:4vw;
@@ -1451,6 +1481,7 @@ img{
 
 .keeper-photostudio-h2{
     font-size:2.2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#386E0B;
     margin: 0;
 }
@@ -1504,6 +1535,7 @@ img{
 .keeper-photostudio-list-item-name{
     margin: 1.5vw 0 0 0;
     font-size:1vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 @media screen and (max-width:428px) {
     .keeper-photostudio-list-item-name{
@@ -1526,6 +1558,7 @@ img{
     justify-content: center;
     align-items: center;
     font-size: 1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     background-color:#5B9BDB;
     width: 15vw;
     height:4vw;
@@ -1593,6 +1626,7 @@ img{
 
 .photospot-title-text{
     font-size:2.2vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .photospot-title-text{
@@ -1638,6 +1672,7 @@ img{
     background-color:#DB5B5B;
     top: 40vw;
     font-size:1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
     text-decoration:none;
 }
@@ -1703,6 +1738,7 @@ img{
     background-color: rgba(133, 181, 146, .8);
     margin: -15vw 0 0 11vw;
     font-size:3vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
     text-decoration:none;
 }
@@ -1747,6 +1783,7 @@ img{
     background-color:rgba(133, 175, 181, .8);
     margin: -15vw 0 0 15vw;
     font-size:3vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     color:#fff;
     text-decoration:none;
 }
@@ -1838,7 +1875,8 @@ img{
 }
 
 .sns-title-h2{
-    font-size:2.5vw
+    font-size:2.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .sns-title-h2{
@@ -1937,6 +1975,7 @@ img{
 
 .footer-phoenix{
     font-size:1.5vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
     margin-bottom: 1vw;
 }
 @media screen and (max-width:428px) {
@@ -1948,6 +1987,7 @@ img{
 
 .address-number{
     font-size:1vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     margin-bottom: 1vw;
     line-height: 1.9;
 }
@@ -1961,6 +2001,7 @@ img{
 
 .footer-information{
     font-size:1vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     margin-bottom: 1vw;
 }
 @media screen and (max-width:428px) {
@@ -1991,6 +2032,7 @@ img{
 
 .copyright{
     font-size:0.7vw;
+    font-family: 'Zen Maru Gothic', sans-serif;
 }
 @media screen and (max-width:428px) {
     .copyright{
