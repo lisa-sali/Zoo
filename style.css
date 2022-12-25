@@ -50,6 +50,18 @@ img{
     margin-right: 2vw;
 }
 
+@media screen and (max-width:428px) {
+    .header-ticket{
+        background-color:#24A7BF;
+        padding:   17px 17px;
+        font-size:1vw;
+        text-decoration: none;
+        color:#fff;
+        margin-right: 2vw;
+    }
+    
+}
+
 .sp-nav-btn{
     display: flex;
     flex-direction: column;
@@ -416,7 +428,7 @@ img{
 }
 @media screen and (max-width:428px){
     .news-event-main-p{
-    font-size:1vw;
+    font-size:6px;
     margin: 1.3vw 19.5vw 0 3vw;
     }
 }
@@ -428,7 +440,7 @@ img{
 @media screen and (max-width: 428px){
     .news-event-main-pp{
         width: 52vw;
-        font-size:1.2vw;
+        font-size:7px;
         margin: 1vw 1vw 2vw 3vw;
     }
 }
@@ -456,7 +468,7 @@ img{
         height:8.6vw;
         border-radius: 4.3vw;
         margin: 6vw 0 5vw 0;
-        font-size:3vw;
+        font-size:3.2vw2;
         color:#fff;
         text-decoration:none;
     }
@@ -706,7 +718,7 @@ img{
         width: 29vw;
         height: 8.6vw;
         border-radius:4.3vw;
-        font-size:1vw;
+        font-size:3.2vw;
         text-decoration:none;
         color:#fff;
         margin: 295vw auto 0;
@@ -845,7 +857,7 @@ img{
         margin:  20vw auto 0;
         color:#fff;
         text-decoration:none;
-        font-size:1vw;
+        font-size:3.2vw;
     }
 }
 
@@ -996,7 +1008,7 @@ img{
         border-radius:4.3vw;
         margin:  20vw auto 0;
         background-color:#E39064;
-        font-size:1vw;
+        font-size:3.2vw;
         color:#fff;
         text-decoration:none;
     }
