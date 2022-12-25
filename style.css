@@ -840,7 +840,7 @@ img{
 }
 @media screen and (max-width:428px) {
     .touch-list-item-p{
-        width: 80vw;
+        width: 84vw;
         height: 5.6vw;
         font-size:2.8vw;
         line-height:2.5;
