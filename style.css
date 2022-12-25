@@ -54,7 +54,7 @@ img{
 @media screen and (max-width:428px) {
     .header-ticket{
         background-color:#24A7BF;
-        padding:   15px 15px;
+        padding:   12px 12px;
         font-size:3.2vw;
         text-decoration: none;
         color:#fff;
